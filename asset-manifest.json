@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/netomi-final-site/static/css/main.950ba770.css",
+    "main.js": "/netomi-final-site/static/js/main.f0c694c4.js",
+    "static/js/787.b4ee2fd7.chunk.js": "/netomi-final-site/static/js/787.b4ee2fd7.chunk.js",
+    "index.html": "/netomi-final-site/index.html",
+    "main.950ba770.css.map": "/netomi-final-site/static/css/main.950ba770.css.map",
+    "main.f0c694c4.js.map": "/netomi-final-site/static/js/main.f0c694c4.js.map",
+    "787.b4ee2fd7.chunk.js.map": "/netomi-final-site/static/js/787.b4ee2fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.950ba770.css",
+    "static/js/main.f0c694c4.js"
+  ]
+}
