@@ -1,0 +1,43 @@
+.form{
+    background: lightgray;
+    width: 300px;
+    padding: 10px;
+}
+
+.form .form-fields, .form .form-fields .form-subfields{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
+.form .form-fields label{
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.form .form-fields input, .form .form-fields select{
+    padding: 10px;
+    border: none;
+}
+
+.form button{
+    background: olivedrab;
+    color: white;
+    outline: none;
+    cursor: pointer;
+    border: none;
+    padding: 10px 12px;
+    border-radius: 6px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
